@@ -10,8 +10,9 @@ In this lab we are going to practice array operations.
 ### Perform operations on Arrays as guided by tests
 * Find a max
 * Extract the nth elements of nested arrays
-* Extract the nth elements of nested arrays, return reverse alphabetically sorted
-* Flatten nested arrays
+* Flatten nested array
+* Flatten nested array, then return reverse alphabetically sorted
+
 
 ### Reflect on Approach
 * Did you use the built-in? Why not?

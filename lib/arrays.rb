@@ -8,9 +8,9 @@ def find_nth_element(my_array)
 end
 
 def flatten_nested_arrays(my_array)
-  my_array.flatten!
+  my_array.flatten
 end
 
 def flatten_then_sort(my_array)
-  my_array.flatten.sort!
+  my_array.flatten.sort
 end
